@@ -1,0 +1,20 @@
+What is Python?
+Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
+
+It is used for:
+
+web development (server-side),
+software development,
+mathematics,
+system scripting.
+Syntax
+print("Hello, World!")
+
+#This is a comment
+print("Hello, World!")
+
+Creating Variables
+x = 5
+y = "John"
+print(x)
+print(y)
